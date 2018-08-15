@@ -1,2 +1,2 @@
-Syntaxer (Syntax Analyzer) - program, that analyze input text, by dividing it into lexemes and checks if this text 
-compatible with given gramatics.
+//Syntaxer (Syntax Analyzer) - program, that analyze input text, by dividing it into lexemes and checks if this text 
+//compatible with given gramatics.
